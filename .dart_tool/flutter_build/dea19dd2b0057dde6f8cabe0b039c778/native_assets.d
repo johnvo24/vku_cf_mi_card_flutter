@@ -1,0 +1,1 @@
+ /home/johnvo/jv/cross-platform/mi_card_flutter/.dart_tool/flutter_build/dea19dd2b0057dde6f8cabe0b039c778/native_assets.yaml: 
